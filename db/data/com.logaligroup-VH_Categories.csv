@@ -1,6 +1,6 @@
-code;name;descr
-dea5e48b-5de1-45fd-9ae7-5cac0214ab48;TV, Video & HiFi;
-997daaf1-9841-4ac9-9794-2133c6651c24;Computer System;
-90e444fa-5dbd-4715-9de6-81b156fff81d;Computer Components;
-e7af9ccf-3e59-4a7d-ad7f-7ca93d730ee3;Printers & Scanners;
-811e886e-8e00-4c86-9c8b-fa55b23231be;Smartphones & Tablets;
+name;descr;ID
+TV, Video & HiFi;descr1475;62c950a7-c15d-42d2-8673-82f3d5e60fef
+Computer System;descr6716;c55c4a3f-d6e6-4296-bc0e-665f8e834098
+Computer Components;descr1930;cbdae55b-d061-4ccb-b503-990e209cc0a7
+Printers & Scanners;descr7793;eefb190f-8d27-4ed0-b106-e9d83f308dd0
+Smartphones & Tablets;descr2998;a1d541fd-202e-4d0e-a9b2-4d4cb048a3de
