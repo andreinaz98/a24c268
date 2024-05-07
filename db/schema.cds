@@ -11,6 +11,7 @@ entity Suppliers : cuid, managed {
         Supplier     : String(200);
         SupplierName : String(120);
         WebAddress   : String(255);
+// Contact: Association to Contacts;
 };
 
 entity Contacts : cuid {
@@ -21,7 +22,7 @@ entity Contacts : cuid {
 };
 
 entity Products : cuid, managed {
-        ImagenUrl    : String(600);
+        ImageUrl     : String(600);
         Products     : String(80);
         Description  : String(1255);
         Category     : String;
